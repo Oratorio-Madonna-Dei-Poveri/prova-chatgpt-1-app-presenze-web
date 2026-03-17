@@ -1,0 +1,3 @@
+var CONFIG = {
+    API_URL: "INSERISCI_URL_APPS_SCRIPT"
+};
